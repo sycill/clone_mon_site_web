@@ -8,3 +8,7 @@ body {
   font-size: 3rem;
   text-align: center;
 }
+
+h1 {
+  margin: 0;
+}
